@@ -80,7 +80,7 @@ https://github.com/4GeeksAcademy/ocielgallardo-company-choice
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/GallaGit
-- Email: ociel.gala@gmail.com
+- Email: ociel.galla@gmail.com
 
 ---
 
