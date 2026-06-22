@@ -67,7 +67,7 @@ https://github.com/4GeeksAcademy/ocielgallardo-company-choice
 
 ---
 
-## 🎯 2027 Goals
+## 🎯 2026 Goals
 
 - Complete AI Engineering Program
 - Build strong Full Stack projects
