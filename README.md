@@ -18,7 +18,7 @@ My focus is on Full Stack Development, AI-powered applications, and automation s
 - 📚 Continuous learner and problem solver
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GallaGit&theme=transparent&border_radius=0&card_width=1000)](https://git.io/streak-stats)
 ---
 
 ## 🛠️ Tech Stack
