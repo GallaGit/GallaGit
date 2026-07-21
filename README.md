@@ -42,6 +42,7 @@ My focus is on Full Stack Development, AI-powered applications, and automation s
 🔄 TypeScript
 🔄 React
 🔄 Next.js
+🔄 Python
 🔄 Databases
 ⏳ Backend Development
 ⏳ AI Agents
