@@ -158,7 +158,7 @@ External Tools & Services
 
 - 🐙 GitHub: [GallaGit](https://github.com/GallaGit)
 - 💼 LinkedIn: [Ociel Gallardo](https://www.linkedin.com/in/ociel-gallardo)
-- 📧 Email: [ociel.gala@gmail.com](mailto:ociel.gala@gmail.com)*
+- 📧 Email: [ociel.gala@gmail.com](mailto:ociel.gala@gmail.com)
 
 
 ---
