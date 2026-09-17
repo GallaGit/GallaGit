@@ -40,12 +40,11 @@ I enjoy understanding how systems work end to end — from the user interface an
 ✅ Docker Fundamentals
 ✅ AI API Integration
 ✅ AI Agents Fundamentals
-🔄 Databases / SQL
-🔄 PostgreSQL
-🔄 SQLAlchemy
-🔄 RAG
+✅ Databases / SQL
+✅ PostgreSQL
 🔄 AI Automation / Workflows
-⏳ Cloud & Deployment
+🔄 Cloud & Deployment
+🔄 RAG
 ```
 
 ---
