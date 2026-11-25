@@ -4,9 +4,7 @@
 
 ### AI Engineer
 
-I'm currently transitioning from a 10-year career as a dance instructor into software development.
-
-I'm building my skills through real projects focused on **Full Stack Development, APIs, AI applications, automation, and software engineering practices**.
+Building my skills through real projects focused on **AI Engineer,Full Stack Development, APIs, AI applications, automation, and software engineering practices**.
 
 I enjoy understanding how systems work end to end — from the user interface and business logic to APIs, data persistence, and AI agents.
 
