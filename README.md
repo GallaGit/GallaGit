@@ -57,11 +57,8 @@ DevOps / Tools: Git / GitHub · Docker Fundamentals · 🔄 Cloud & Deployment
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
@@ -83,7 +80,6 @@ DevOps / Tools: Git / GitHub · Docker Fundamentals · 🔄 Cloud & Deployment
 - Local browser persistence with IndexedDB
 - CSV-based data persistence and logging
 - 🔄 PostgreSQL
-- 🔄 SQLAlchemy
 
 ---
 
@@ -146,14 +142,20 @@ External Tools & Services
 
 ## 🎯 2026 Goals
 
-- ✅ Complete my AI Engineering program
-- 💪 Strengthen my Full Stack development skills
-- 🤖 Build production-oriented AI applications
-- 🗄️ Deepen my knowledge of databases and backend architecture
-- 📖 Learn RAG and AI automation workflows
-- 🌱 Contribute to Open Source
-- 📂 Build a strong professional portfolio
-- 🏆 Land my first Junior AI Engineer / Full Stack Developer role
+<p align="center">
+  <b>2026 Progress: 75%</b>
+</p>
+
+| Goal | Progress |
+|:---|:---:|
+| ✅ Complete my AI Engineering program | <img src="https://progress-bar.xyz/100/?width=150&color=2ea44f" alt="100%"/> |
+| 💪 Strengthen my Full Stack development skills | <img src="https://progress-bar.xyz/75/?width=150&color=2ea44f" alt="75%"/> |
+| 🤖 Build production-oriented AI applications | <img src="https://progress-bar.xyz/60/?width=150&color=e3b341" alt="60%"/> |
+| 🗄️ Deepen my knowledge of databases and backend architecture | <img src="https://progress-bar.xyz/50/?width=150&color=e3b341" alt="50%"/> |
+| 📖 Learn RAG and AI automation workflows | <img src="https://progress-bar.xyz/40/?width=150&color=e3b341" alt="40%"/> |
+| 🌱 Contribute to Open Source | <a href="https://github.com/HelpCode-ai/anythingmcp"><img src="https://progress-bar.xyz/100/?width=150&color=2ea44f" alt="100% - View contribution"/></a> |
+| 📂 Build a strong professional portfolio | <img src="https://progress-bar.xyz/80/?width=150&color=2ea44f" alt="80%"/> |
+| 🏆 Land my first Junior AI Engineer / Full Stack Developer role | <img src="https://progress-bar.xyz/10/?width=150&color=dc3545" alt="10%"/> |
 
 ---
 
