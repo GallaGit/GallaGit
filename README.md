@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="gitbanner.svg" alt="Ociel Gallardo — Junior AI Engineer · Full-Stack Developer" width="100%">
+  <img src="gitbanner.svg" alt="Ociel Gallardo — AI Engineer · Full-Stack Developer" width="100%">
 </p>
 
-### AI Engineering Graduate | Future AI Engineer & Full Stack Developer
+### AI Engineer
 
 I'm currently transitioning from a 10-year career as a dance instructor into software development.
 
