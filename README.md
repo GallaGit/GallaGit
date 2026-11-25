@@ -119,7 +119,7 @@ External Tools & Services
 
 | 👨‍💻 Technology | 📊 Progress | 📅 Start Date | 🏁 Target End Date | 🚦 Status | 🎓 Institution |
 |---|---:|---|---|---|---|
-| Python | 15% | 25/11/2026 | 15/12/2026 | 🟡 In Progress | TBD |
+| Python | 15% | 25/11/2026 | 25/01/2028 | 🟡 In Progress | TBD |
 | React | 0% | TBD | TBD | ⚪ Planned | TBD |
 | Docker | 0% | TBD | TBD | ⚪ Planned | TBD |
 | PostgreSQL | 0% | TBD | TBD | ⚪ Planned | TBD |
