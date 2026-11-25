@@ -4,7 +4,7 @@
 
 ### AI Engineer
 
-Building my skills through real projects focused on **AI Engineer,Full Stack Development, APIs, AI applications, automation, and software engineering practices**.
+Building my skills through real projects focused on **AI Engineer, Full Stack Development, APIs, AI applications, automation, and software engineering practices**.
 
 I enjoy understanding how systems work end to end — from the user interface and business logic to APIs, data persistence, and AI agents.
 
