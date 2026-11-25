@@ -1,6 +1,6 @@
 # Hi, I'm Ociel Gallardo 👋
 
-### AI Engineering Student | Future AI Engineer & Full Stack Developer
+### AI Engineering Graduate | Future AI Engineer & Full Stack Developer
 
 I'm currently transitioning from a 10-year career as a dance instructor into software development.
 
@@ -12,7 +12,7 @@ I enjoy understanding how systems work end to end — from the user interface an
 
 ## 🚀 About Me
 
-- 🎓 AI Engineering Student at 4Geeks Academy
+- 🎓 AI Engineering Graduate from 4Geeks Academy
 - 💻 Building Full Stack applications with JavaScript, TypeScript and Python
 - 🔌 Developing and consuming REST APIs with FastAPI
 - 🤖 Building AI-powered applications and experimenting with AI agents
@@ -25,26 +25,26 @@ I enjoy understanding how systems work end to end — from the user interface an
 
 ---
 
-## 📈 Current Roadmap
+## 📦 Stacks
 
 ```text
-✅ HTML / CSS
-✅ JavaScript
-✅ TypeScript
-✅ React
-✅ Next.js
-✅ Tailwind CSS
-✅ REST APIs
-✅ FastAPI / Python
-✅ Git / GitHub
-✅ Docker Fundamentals
-✅ AI API Integration
-✅ AI Agents Fundamentals
-✅ Databases / SQL
-✅ PostgreSQL
-🔄 AI Automation / Workflows
-🔄 Cloud & Deployment
-🔄 RAG
+Frontend:       HTML / CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS
+Backend:        REST APIs · FastAPI / Python
+Database:       Databases / SQL · PostgreSQL
+AI / ML:        AI API Integration · AI Agents Fundamentals · 🔄 AI Automation / Workflows
+DevOps / Tools: Git / GitHub · Docker Fundamentals · 🔄 Cloud & Deployment
+```
+
+---
+
+## 📈 Roadmap
+
+```text
+1. Python (expert) · RAG
+2. AI agents
+3. LLMs
+4. AI evals
+5. AI security
 ```
 
 ---
