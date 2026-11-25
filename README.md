@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="gitbanner.svg" alt="Ociel Gallardo — Junior AI Engineer · Full-Stack Developer" width="100%">
+</p>
+
 # Hi, I'm Ociel Gallardo 👋
 
 ### AI Engineering Graduate | Future AI Engineer & Full Stack Developer
