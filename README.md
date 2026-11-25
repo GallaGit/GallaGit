@@ -2,8 +2,6 @@
   <img src="gitbanner.svg" alt="Ociel Gallardo — Junior AI Engineer · Full-Stack Developer" width="100%">
 </p>
 
-# Hi, I'm Ociel Gallardo 👋
-
 ### AI Engineering Graduate | Future AI Engineer & Full Stack Developer
 
 I'm currently transitioning from a 10-year career as a dance instructor into software development.
@@ -29,29 +27,6 @@ I enjoy understanding how systems work end to end — from the user interface an
 
 ---
 
-## 📦 Stacks
-
-```text
-Frontend:       HTML / CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS
-Backend:        REST APIs · FastAPI / Python
-Database:       Databases / SQL · PostgreSQL
-AI / ML:        AI API Integration · AI Agents Fundamentals · 🔄 AI Automation / Workflows
-DevOps / Tools: Git / GitHub · Docker Fundamentals · 🔄 Cloud & Deployment
-```
-
----
-
-## 📈 Roadmap
-
-```text
-1. Python (expert) · RAG
-2. AI agents
-3. LLMs
-4. AI evals
-5. AI security
-```
-
----
 
 ## 🛠️ Tech Stack
 
@@ -137,6 +112,18 @@ AI Agents / LLMs
       ↓
 External Tools & Services
 ```
+
+---
+
+## 🚀 Technologies I'm Currently Learning
+
+| 👨‍💻 Technology | 📊 Progress | 📅 Start Date | 🏁 Target End Date | 🚦 Status | 🎓 Institution |
+|---|---:|---|---|---|---|
+| Python | 15% | 25/11/2026 | 15/12/2026 | 🟡 In Progress | TBD |
+| React | 0% | TBD | TBD | ⚪ Planned | TBD |
+| Docker | 0% | TBD | TBD | ⚪ Planned | TBD |
+| PostgreSQL | 0% | TBD | TBD | ⚪ Planned | TBD |
+| LangGraph | 0% | TBD | TBD | ⚪ Planned | TBD |
 
 ---
 
