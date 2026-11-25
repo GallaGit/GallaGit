@@ -47,27 +47,23 @@ I enjoy understanding how systems work end to end — from the user interface an
 
 ### Data & Persistence
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)
 ![IndexedDB](https://img.shields.io/badge/IndexedDB-1F2937?style=for-the-badge)
 ![CSV](https://img.shields.io/badge/CSV-217346?style=for-the-badge)
-
-- Local browser persistence with IndexedDB
-- CSV-based data persistence and logging
-- 🔄 PostgreSQL
 
 ---
 
 ### AI & Automation
 
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
-![Llama](https://img.shields.io/badge/Llama-0467DF?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-7A1F2B?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge)
-
-- LLM API integration
-- Conversational AI
-- AI agent fundamentals
-- Tool-based agents
-- Prompt and context management
-- AI-assisted workflows and automation concepts
 
 ---
 
@@ -117,11 +113,11 @@ External Tools & Services
 
 | 👨‍💻 Technology | 📊 Progress | 📅 Start Date | 🏁 Target End Date | 🚦 Status | 🎓 Institution |
 |---|---:|---|---|---|---|
-| Python | 15% | 25/11/2026 | 25/01/2028 | 🟡 In Progress | TBD |
-| React | 0% | TBD | TBD | ⚪ Planned | TBD |
-| Docker | 0% | TBD | TBD | ⚪ Planned | TBD |
-| PostgreSQL | 0% | TBD | TBD | ⚪ Planned | TBD |
-| LangGraph | 0% | TBD | TBD | ⚪ Planned | TBD |
+| Python | 15% | 25/11/2026 | 25/01/2027 | 🟡 In Progress | TBD |
+| RAG | 10% | TBD | TBD | ⚪ Planned | TBD |
+| AI Agents | 20% | TBD | TBD | ⚪ Planned | TBD |
+| Evals & Security | 10% | TBD | TBD | ⚪ Planned | TBD |
+| LangGraph | 10% | TBD | TBD | ⚪ Planned | TBD |
 
 ---
 
