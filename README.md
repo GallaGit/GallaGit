@@ -121,22 +121,23 @@ External Tools & Services
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Goals 2026 - 2027
 
 <p align="center">
-  <b>2026 Progress: 64.4%</b>
+  <b>Overall Progress: 64,4%</b><br>
+  <img src="https://progress-bar.xyz/64/?width=250&color=e3b341" alt="64.4% Overall Progress"/>
 </p>
 
-| Goal | Progress | Year |
-|:---|:---:|:---:|
-| ✅ Complete my AI Engineering program | <img src="https://progress-bar.xyz/100/?width=150&color=2ea44f" alt="100%"/> | 2026 |
-| 💪 Strengthen my Full Stack development skills | <img src="https://progress-bar.xyz/75/?width=150&color=2ea44f" alt="75%"/> |
-| 🤖 Build production-oriented AI applications | <img src="https://progress-bar.xyz/60/?width=150&color=e3b341" alt="60%"/> |
-| 🗄️ Deepen my knowledge of databases and backend architecture | <img src="https://progress-bar.xyz/50/?width=150&color=e3b341" alt="50%"/> |
-| 📖 Learn RAG and AI automation workflows | <img src="https://progress-bar.xyz/40/?width=150&color=e3b341" alt="40%"/> |
-| 🌱 Contribute to Open Source | <a href="https://github.com/HelpCode-ai/anythingmcp"><img src="https://progress-bar.xyz/100/?width=150&color=2ea44f" alt="100% - View contribution"/></a> | 2026 |
-| 📂 Build a strong professional portfolio | <img src="https://progress-bar.xyz/80/?width=150&color=2ea44f" alt="80%"/> |
-| 🏆 Land my first Junior AI Engineer / Full Stack Developer role | <img src="https://progress-bar.xyz/10/?width=150&color=dc3545" alt="10%"/> |
+| Goal | Progress | Evidence | Target Completion |
+|:---|:---:|:---:|:---:|
+| ✅ Complete my AI Engineering program | 100% | [Certificate](YOUR_CERTIFICATE_URL) | Dec 2026 |
+| 💪 Build and deploy 2 full-stack applications | 75% | [Projects](YOUR_PROJECTS_URL) | Dec 2026 |
+| 🤖 Develop 2 production-oriented AI applications | 60% | [Projects](YOUR_AI_PROJECTS_URL) | Dec 2026 |
+| 🗄️ Build an application demonstrating backend architecture and database fundamentals | 50% | [Repository](YOUR_REPOSITORY_URL) | Jun 2027 |
+| 📚 Build and deploy a RAG application | 40% | [Repository](YOUR_RAG_PROJECT_URL) | Mar 2027 |
+| 🌱 Make 3 meaningful Open Source contributions | 100% | [Contributions](https://github.com/HelpCode-ai/anythingmcp) | Dec 2026 |
+| 📂 Publish a professional developer portfolio with at least 4 projects | 80% | [Portfolio](YOUR_PORTFOLIO_URL) | Mar 2027 |
+| 🏆 Land my first Junior AI Engineer / Full Stack Developer role | 10% | [Career Progress](YOUR_CAREER_URL) | Dec 2027 |
 
 ---
 
