@@ -124,17 +124,17 @@ External Tools & Services
 ## 🎯 2026 Goals
 
 <p align="center">
-  <b>2026 Progress: 75%</b>
+  <b>2026 Progress: 64.4%</b>
 </p>
 
-| Goal | Progress |
-|:---|:---:|
-| ✅ Complete my AI Engineering program | <img src="https://progress-bar.xyz/100/?width=150&color=2ea44f" alt="100%"/> |
+| Goal | Progress | Year |
+|:---|:---:|:---:|
+| ✅ Complete my AI Engineering program | <img src="https://progress-bar.xyz/100/?width=150&color=2ea44f" alt="100%"/> | 2026 |
 | 💪 Strengthen my Full Stack development skills | <img src="https://progress-bar.xyz/75/?width=150&color=2ea44f" alt="75%"/> |
 | 🤖 Build production-oriented AI applications | <img src="https://progress-bar.xyz/60/?width=150&color=e3b341" alt="60%"/> |
 | 🗄️ Deepen my knowledge of databases and backend architecture | <img src="https://progress-bar.xyz/50/?width=150&color=e3b341" alt="50%"/> |
 | 📖 Learn RAG and AI automation workflows | <img src="https://progress-bar.xyz/40/?width=150&color=e3b341" alt="40%"/> |
-| 🌱 Contribute to Open Source | <a href="https://github.com/HelpCode-ai/anythingmcp"><img src="https://progress-bar.xyz/100/?width=150&color=2ea44f" alt="100% - View contribution"/></a> |
+| 🌱 Contribute to Open Source | <a href="https://github.com/HelpCode-ai/anythingmcp"><img src="https://progress-bar.xyz/100/?width=150&color=2ea44f" alt="100% - View contribution"/></a> | 2026 |
 | 📂 Build a strong professional portfolio | <img src="https://progress-bar.xyz/80/?width=150&color=2ea44f" alt="80%"/> |
 | 🏆 Land my first Junior AI Engineer / Full Stack Developer role | <img src="https://progress-bar.xyz/10/?width=150&color=dc3545" alt="10%"/> |
 
