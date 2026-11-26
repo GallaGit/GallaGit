@@ -113,11 +113,11 @@ External Tools & Services
 
 | 👨‍💻 Technology | 📊 Progress | 📅 Start Date | 🏁 Target End Date | 🚦 Status | 🎓 Institution |
 |---|---:|---|---|---|---|
-| Python | 15% | 25/11/2026 | 25/01/2027 | 🟡 In Progress | TBD |
-| RAG | 10% | TBD | TBD | ⚪ Planned | TBD |
-| AI Agents | 20% | TBD | TBD | ⚪ Planned | TBD |
-| Evals & Security | 10% | TBD | TBD | ⚪ Planned | TBD |
-| LangGraph | 10% | TBD | TBD | ⚪ Planned | TBD |
+| Python | 15% | 25/11/2026 | 25/01/2027 | 🟡 In Progress | freeCodeCamp <br> 4Geeks |
+| RAG | 10% | TBD | TBD | ⚪ Planned | 4Geeks |
+| AI Agents | 20% | TBD | TBD | ⚪ Planned | 4Geeks |
+| Evals & Security | 10% | TBD | TBD | ⚪ Planned | 4Geeks |
+| LangGraph | 10% | TBD | TBD | ⚪ Planned | 4Geeks |
 
 ---
 
