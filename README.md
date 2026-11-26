@@ -130,7 +130,7 @@ External Tools & Services
 
 | Goal | Progress | Evidence | Target Completion |
 |:---|:---:|:---:|:---:|
-| ✅ Complete my AI Engineering program | 100% | [Certificate](YOUR_CERTIFICATE_URL) | Dec 2026 |
+| ✅ Complete my AI Engineering program | 95% | [Certificate on hold](YOUR_CERTIFICATE_URL) | Dec 2026 |
 | 💪 Build and deploy 2 full-stack applications | 75% | [Projects](YOUR_PROJECTS_URL) | Dec 2026 |
 | 🤖 Develop 2 production-oriented AI applications | 60% | [Projects](YOUR_AI_PROJECTS_URL) | Dec 2026 |
 | 🗄️ Build an application demonstrating backend architecture and database fundamentals | 50% | [Repository](YOUR_REPOSITORY_URL) | Jun 2027 |
