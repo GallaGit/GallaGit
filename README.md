@@ -132,7 +132,7 @@ External Tools & Services
 |:---|:---:|:---:|:---:|
 | ✅ Complete my AI Engineering program | 95% | [Certificate on hold](YOUR_CERTIFICATE_URL) | Dec 2026 |
 | 💪 Build and deploy 2 full-stack applications | 75% | [Projects](YOUR_PROJECTS_URL) | Dec 2026 |
-| 🤖 Develop 2 production-oriented AI applications | 60% | [WorkspaceGallaDev](https://github.com/GallaGit/GallaDev_workspace) <br> [HeathCore](https://github.com/GallaGit/GallaDev_workspace) | Dec 2026 |
+| 🤖 Develop 2 production-oriented AI applications | 60% | [WorkspaceGallaDev](https://github.com/GallaGit/GallaDev_workspace) <br> [HeathCore](https://github.com/GallaGit/Healthcore) | Dec 2026 |
 | 🗄️ Build an application demonstrating backend architecture and database fundamentals | 50% | [Repository](YOUR_REPOSITORY_URL) | Jun 2027 |
 | 📚 Build and deploy a RAG application | 40% | [Repository](YOUR_RAG_PROJECT_URL) | Mar 2027 |
 | 🌱 Make 3 meaningful Open Source contributions | 100% | [Contributions](https://github.com/HelpCode-ai/anythingmcp) | Dec 2026 |
