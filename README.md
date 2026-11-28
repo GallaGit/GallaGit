@@ -124,20 +124,20 @@ External Tools & Services
 ## 🎯 Goals 2026 - 2027
 
 <p align="center">
-  <b>Overall Progress: 64,4%</b><br>
-  <img src="https://progress-bar.xyz/64/?width=250&color=e3b341" alt="64.4% Overall Progress"/>
+  <b>Overall Progress: 68,1%</b><br>
+  <img src="https://progress-bar.xyz/68/?width=250&color=e3b341" alt="68.1% Overall Progress"/>
 </p>
 
 | Goal | Progress | Evidence | Target Completion |
 |:---|:---:|:---:|:---:|
-| ✅ Complete my AI Engineering program | 95% | [Certificate on hold](YOUR_CERTIFICATE_URL) | Dec 2026 |
-| 💪 Build and deploy 2 full-stack applications | 75% | [GallaDev Workspace](https://github.com/GallaGit/GallaDev_workspace)<br>[HealthCore](https://github.com/GallaGit/Healthcore) | Dec 2026 |
-| 🤖 Develop 2 production-oriented AI applications | 60% | [GallaDev Workspace](https://github.com/GallaGit/GallaDev_workspace)<br>[HealthCore](https://github.com/GallaGit/Healthcore) | Dec 2026 |
-| 🗄️ Build an application demonstrating backend architecture and database fundamentals | 50% | [Repository](YOUR_REPOSITORY_URL) | Jun 2027 |
-| 📚 Build and deploy a RAG application | 40% | [Repository](YOUR_RAG_PROJECT_URL) | Mar 2027 |
-| 🌱 Make 3 meaningful Open Source contributions | 100% | [Contributions](https://github.com/HelpCode-ai/anythingmcp) | Dec 2026 |
-| 📂 Publish a professional developer portfolio with at least 4 projects | 80% | [Portfolio](YOUR_PORTFOLIO_URL) | Mar 2027 |
-| 🏆 Land my first Junior AI Engineer / Full Stack Developer role | 10% | [Career Progress](YOUR_CAREER_URL) | Dec 2027 |
+| ✅ Complete my AI Engineering program | 95% | Certificate on hold | Dec 2026 |
+| 💪 Build and deploy 2 full-stack applications | 75% | [GallaDev Workspace](https://github.com/GallaGit/GallaDev_workspace)<br>[GallaIA](https://github.com/GallaGit/GallaIA) | Dec 2026 |
+| 🤖 Develop 2 production-oriented AI applications | 70% | [GallaDev Workspace](https://github.com/GallaGit/GallaDev_workspace)<br>[GallaIA](https://github.com/GallaGit/GallaIA) | Dec 2026 |
+| 🗄️ Build an application demonstrating backend architecture and database fundamentals | 90% | [GallaDev Workspace](https://github.com/GallaGit/GallaDev_workspace)<br>[GallaIA](https://github.com/GallaGit/GallaIA) | Jun 2027 |
+| 📚 Build and deploy a RAG application | 70% | [HealthCore](https://github.com/GallaGit/Healthcore) | Mar 2027 |
+| 🌱 Make 3 meaningful Open Source contributions | 100% | [AnythingMCP](https://github.com/HelpCode-ai/anythingmcp)<br>[FileMaker adapter](https://github.com/HelpCode-ai/anythingmcp/pull/1624)<br>[Wazuh adapter](https://github.com/HelpCode-ai/anythingmcp/pull/1461)<br>[Immich adapter](https://github.com/HelpCode-ai/anythingmcp/pull/1329)<br>[ship-safe: Cursor MCP quickstart](https://github.com/asamassekou10/ship-safe/pull/238) | Dec 2026 |
+| 📂 Publish a professional developer portfolio with at least 4 projects | 30% | [Portafolio](https://github.com/GallaGit/Portafolio) | Mar 2027 |
+| 🏆 Land my first Junior AI Engineer / Full Stack Developer role | 15% | [LinkedIn](https://www.linkedin.com/in/ociel-gallardo) | Dec 2027 |
 
 ---
 
